@@ -18,9 +18,9 @@ Users will be able to hover over an image on your site and share the image on po
   <script src="./socialpic.js" type="text/javascript"></script>
   <link href="./socialpic.css" rel="stylesheet">
 
-  <script>
-		$(function(){
-			$('img').socialpic();
-		});
+	<script>
+	$(function(){
+		$('img').socialpic();
+	});
 	</script>
 ```
