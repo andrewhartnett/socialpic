@@ -1,0 +1,2 @@
+/** Socialpic Jquery Plguin By Andrew Hartnett **/
+span.socialclick:hover{cursor:pointer}div.overlay{position:absolute;top:0;left:0;opacity:0}div.overlay ul{width:100%;text-align:center;padding:0}div.overlay ul li{display:inline;margin:0 10px}div.wrap div.overlay:hover{opacity:1;-webkit-transition:all .5s ease .15s;-moz-transition:all .5s ease .15s;-o-transition:all .5s ease .15s;-ms-transition:all .5s ease .15s;transition:all .5s ease .15s}div.wrap{position:relative}
