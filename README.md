@@ -15,8 +15,8 @@ Users will be able to hover over an image on your site and share the image on po
 ```
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-  <script src="./socialpic.js" type="text/javascript"></script>
-  <link href="./socialpic.css" rel="stylesheet">
+  <script src="./socialpic.min.js" type="text/javascript"></script>
+  <link href="./socialpic.min.css" rel="stylesheet">
 
 	<script>
 	$(function(){
