@@ -24,3 +24,6 @@ Users will be able to hover over an image on your site and share the image on po
 	});
 	</script>
 ```
+
+## License
+Code released under [MIT License](LICENSE.txt)
