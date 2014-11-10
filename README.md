@@ -1,4 +1,4 @@
-# socialpic
+# Socialpic
 
 A jquery plugin to share images on social media from your website.
 Users will be able to hover over an image on your site and share the image on popular social media platforms.
